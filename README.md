@@ -63,7 +63,7 @@ This project aims to design and develop an E-commerce website that lets people s
 
 ## How to run the program locally
 -	clone project
-```clone git : git clone https://github.com/MujtabaMohsin/Foodbox```
+```clone git : git clone https://github.com/sarahyasmeen/Foodbox```
 
 -	Import the “\Back-End\foodbox\database\foodbox.sql” file to your database administration tool.
 -	Go to “\Back-End\foodbox\src\main\resources\application.properties” file, open it.
